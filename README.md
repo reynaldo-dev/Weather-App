@@ -3,7 +3,6 @@
 
   <img src="./public/gif.gif" width="70%" height="50%" />  
     
-   ### Alumno: Reinaldo Martínez
     
       
    ## Instalación  
